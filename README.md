@@ -3,4 +3,4 @@
 
 [▶️ Launch Demo](https://yaninatrekhleb.github.io/weatherApp-vueJs/)
 
-![Demo](src/assets/../../weather-app/src/assets/demo-weather-app.gif)
+![Demo](src/assets/demo-weather-app.gif)
