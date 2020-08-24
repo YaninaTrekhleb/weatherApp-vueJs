@@ -1,4 +1,4 @@
-# Weather App in Vue.Js by Tyler Potts 
+# Weather App in Vue.Js by Tyler Potts.
 ## [Link to the video](https://www.youtube.com/watch?v=JLc-hWsPTUY&t=388s)
 
 [▶️ Launch Demo](https://yaninatrekhleb.github.io/weatherApp-vueJs/)
